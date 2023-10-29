@@ -1,0 +1,12 @@
+[
+  {
+    "dogName": "Luca",
+    "dogBreed": "German Shepherd",
+    "id": 1
+  },
+  {
+    "dogName": "Lola",
+    "dogBreed": "Giant Schnauzer",
+    "id": 2
+  }
+]
